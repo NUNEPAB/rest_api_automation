@@ -1,0 +1,18 @@
+{
+    "id": 1234567890,
+    "category": {
+      "id": 0,
+      "name": "Osbourne"
+    },
+    "name": "Ozzy",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Ernesto"
+      }
+    ],
+    "status": "available"
+  }
